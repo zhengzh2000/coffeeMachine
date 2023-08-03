@@ -1,4 +1,4 @@
-# coffeeMachine
+# CoffeeMachine
 Small work for python program to act like a real life coffee machine.
 Prompt user by asking “What would you like? (espresso/latte/cappuccino):”
   a. Check the user’s input to decide what to do next.
